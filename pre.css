@@ -1,0 +1,56 @@
+.all{
+    
+    border-radius: 30px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 300px;
+    margin: 200px;
+    margin-left: 320px;
+    gap: 2rem;
+    padding: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+
+    
+}
+.half{
+    background-color: rgb(234, 234, 246);
+    width: 580px;
+    height: 280px;
+    border-radius: 28px;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 20px;
+    
+    
+}
+
+.but{
+    background-color: rgb(229, 85, 208);
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.n{
+    background-color: rgb(6, 179, 252);
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.b{
+    background-color: rgb(223, 203, 27);
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+body{
+    background: radial-gradient(pink,blue)
+    
+   
+}
